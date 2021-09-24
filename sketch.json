@@ -1,0 +1,6 @@
+{
+  "cpu": {
+    "fqbn": "versioduo:samd:serial",
+    "name": "serial"
+  }
+}
